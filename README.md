@@ -4,34 +4,37 @@ A modern, responsive website for NIROX sneakers built with React, Vite, and Tail
 
 ## ✨ Features
 
-- **Modern Design**: Clean and professional UI with Tailwind CSS
-- **Responsive Layout**: Optimized for all device sizes
-- **Product Showcase**: Display of NIROX sneaker collections
-- **Customer Reviews**: Testimonials and ratings section
-- **Services**: Information about shipping, payment security, and support
-- **Fast Performance**: Built with Vite for optimal loading speeds
+-   **Modern Design**: Clean and professional UI with Tailwind CSS
+-   **Responsive Layout**: Optimized for all device sizes
+-   **Product Showcase**: Display of NIROX sneaker collections
+-   **Customer Reviews**: Testimonials and ratings section
+-   **Services**: Information about shipping, payment security, and support
+-   **Fast Performance**: Built with Vite for optimal loading speeds
 
 ## 🚀 Quick Start
 
 ### Prerequisites
 
-- Node.js (version 14 or higher)
-- npm or yarn
+-   Node.js (version 14 or higher)
+-   npm or yarn
 
 ### Installation
 
 1. Clone the repository:
+
 ```bash
-git clone https://github.com/Mr-Gre2n/Nirox.github.io.git
+git clone https://github.com/Yous2ef/Nirox.github.io.git
 cd Nirox
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -40,10 +43,10 @@ npm run dev
 
 ## 🛠️ Built With
 
-- **React** - Frontend framework
-- **Vite** - Build tool and development server
-- **Tailwind CSS** - Utility-first CSS framework
-- **ESLint** - Code linting
+-   **React** - Frontend framework
+-   **Vite** - Build tool and development server
+-   **Tailwind CSS** - Utility-first CSS framework
+-   **ESLint** - Code linting
 
 ## 📁 Project Structure
 
@@ -58,21 +61,21 @@ src/
 
 ## 🎨 Sections
 
-- **Hero**: Main landing section with featured products
-- **Popular Products**: Showcase of trending NIROX sneakers
-- **Super Quality**: Product quality highlights
-- **Services**: Shipping, security, and support information
-- **Special Offer**: Promotional content
-- **Customer Reviews**: User testimonials
-- **Subscribe**: Newsletter signup
-- **Footer**: Contact information and links
+-   **Hero**: Main landing section with featured products
+-   **Popular Products**: Showcase of trending NIROX sneakers
+-   **Super Quality**: Product quality highlights
+-   **Services**: Shipping, security, and support information
+-   **Special Offer**: Promotional content
+-   **Customer Reviews**: User testimonials
+-   **Subscribe**: Newsletter signup
+-   **Footer**: Contact information and links
 
 ## 📦 Available Scripts
 
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
+-   `npm run dev` - Start development server
+-   `npm run build` - Build for production
+-   `npm run preview` - Preview production build
+-   `npm run lint` - Run ESLint
 
 ## 🤝 Contributing
 
