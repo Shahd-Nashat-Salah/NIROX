@@ -23,7 +23,7 @@ A modern, responsive website for NIROX sneakers built with React, Vite, and Tail
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Yous2ef/Nirox.github.io.git
+git clone https://github.com/Shahd-Nashat-Salah/Nirox.github.io.git
 cd Nirox
 ```
 

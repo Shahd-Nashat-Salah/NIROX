@@ -2,7 +2,7 @@
     "name": "nirox",
     "private": true,
     "version": "0.0.0",
-    "homepage": "https://Yous2ef.github.io/NIROX/",
+    "homepage": "https://Shahd-Nashat-Salah.github.io/NIROX/",
     "type": "module",
     "scripts": {
         "predeploy": "npm run build",
